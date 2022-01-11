@@ -1,8 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Country Base Website
+1: In this site you can see some country information.
+2:Here you can see the population and the area of the country.
+3:Here you can add the country info in the cart by using Add To Cart button.
 
-## Available Scripts
+## Available Script
 
 In the project directory, you can run:
 
