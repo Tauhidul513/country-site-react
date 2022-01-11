@@ -1,0 +1,16 @@
+.country-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    background-color: rgb(28, 119, 238);
+}
+
+.nation-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding-top: 20px;
+    margin: 5px;
+}
+
+.cart-container {
+    padding-top: 20px;
+}

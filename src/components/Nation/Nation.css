@@ -1,0 +1,23 @@
+.individual-container {
+    background-color: lightsteelblue;
+    border: 1px solid lightgrey;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+    border-radius: 15px;
+    padding-bottom: 10px;
+}
+
+.individual-container:hover {
+    background-color: lightskyblue;
+}
+
+.regular-button {
+    background-color: navajowhite;
+    width: 150px;
+    height: 40px;
+    border: 1 px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}

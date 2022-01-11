@@ -1,0 +1,23 @@
+.cart {
+    background-color: lightsteelblue;
+    border: 1px solid lightgrey;
+    margin-top: 15px;
+    margin-right: 20px;
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.cart-btn {
+    background-color: navajowhite;
+    width: 100px;
+    height: 30px;
+    border: 1 px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.cart:hover {
+    background-color: lightskyblue;
+}
